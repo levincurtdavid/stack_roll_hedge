@@ -38,7 +38,7 @@ The full R script (Appendix) demonstrates:
 
 ---
 
-## 📈 Reference Concepts
+## Reference Concepts
 - Johnson (1960), *The Theory of Hedging and Speculation in Commodity Futures*  
 - Ederington (1979), *The Hedging Performance of the New Futures Markets*  
 - Hull (2018), *Options, Futures, and Other Derivatives*  
@@ -46,7 +46,7 @@ The full R script (Appendix) demonstrates:
 
 ---
 
-## 📬 Author
+## Author
 **Levin Curt David**  
 Rice University — STAT 449: Quantitative Financial Risk Management
 Instructor: Dr. Katherine Ensor, Dr. Wentao Zhao, Arnold Muchatibaya  
